@@ -1,4 +1,4 @@
-# TipCalculator
+# Tip Calculator
 
 An Android application is written in Kotlin to calculate tips at restaurants and calculate the amount if splitting with others.
 
